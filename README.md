@@ -24,4 +24,8 @@
 ![Alt Text](https://thumbs.gfycat.com/LittleLightBaboon-size_restricted.gif) <br> <br>
 ![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif) <br> <br> <br>
 
+![ThanhNgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=tokyonight)
+
 
