@@ -12,30 +12,6 @@
 
 <br>
 
--->
-
-<!-- file gif
-
-![Alt Text](https://media0.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif) <br> <br>
-![Alt Text](https://media0.giphy.com/media/mCRJDo24UvJMA/200.gif) <br> <br>
-![Alt Text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif) <br> <br>
-![Alt Text](https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif) <br> <br>
-
-![Alt Text](https://thumbs.gfycat.com/CraftyDecimalAurochs-size_restricted.gif) <br> <br>
-![Alt Text](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1538779979551-1KM2ZC1T4O200M7O1KEA/4178f2b99800d062d5305903b263fba6.gif) <br> <br>
-![Alt Text](https://aestheism.files.wordpress.com/2013/11/ponyo.gif) <br> <br>
-![Alt Text](https://giffiles.alphacoders.com/232/2325.gif) <br> <br>
-![Alt Text](https://i.pinimg.com/originals/f8/a5/fa/f8a5fa42fff23206014beeb079e9e58a.gif) <br> <br>
-![Alt Text](https://thumbs.gfycat.com/LittleLightBaboon-size_restricted.gif) <br> <br>
-![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif) <br> <br> <br>
-
--->
-
-
-
-
-<!--
-
 ![Visistor](https://visitor-badge.glitch.me/badge?page_id=thanhngan22&left_color=brown&right_color=orange)
 
 ![Visitor Count](https://profile-counter.glitch.me/thanhngan22/count.svg)
@@ -52,7 +28,11 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%89;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1+Fun+fact%3A+I+like+writing+code+when+feeling+bored+%F0%9F%98%85%F0%9F%98%82)](https://git.io/typing-svg)
  -->
  ---
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%85;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=750&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%85;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
+ <span width="250">
+ ![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif)
+</span>
 
 <!-- icon  %F0%9F%98%85 -->
 <!-- icon %F0%9F%98%89 -->
@@ -85,11 +65,31 @@ ___
 ---
 <!-- ![Visitor](https://komarev.com/ghpvc/?username=thanhngan22&label=Profile%20views&color=0e75b6&style=flat) -->
 
+<!-- about ponyo -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A680&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%91%8F+let+see+my+favorite+animated+characters+%F0%9F%98%89;%F0%9F%8C%9F+Ponyo+and+Sosuke+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
+___
 
+<a href="#" >
+  <img align="center" src="https://thumbs.gfycat.com/CraftyDecimalAurochs-size_restricted.gif" width="500" height="300" />
+</a>
 
+<a href="#" >
+  <img align="center" src="https://aestheism.files.wordpress.com/2013/11/ponyo.gif" width="500" height="300" />
+</a>
 
+___
+<a href="#" >
+  <img align="center" src="https://giffiles.alphacoders.com/232/2325.gif" width="500" height="270" />
+</a>
 
+<a href="#" >
+  <img align="center" src="https://i.pinimg.com/originals/f8/a5/fa/f8a5fa42fff23206014beeb079e9e58a.gif" width="500" height="270" />
+</a>
+
+---
+<!-- footer -->
 <p align="center">
 	<img src="https://profile-counter.glitch.me/thanhngan22/count.svg" />
 </p>
+
