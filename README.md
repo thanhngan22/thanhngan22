@@ -50,12 +50,12 @@ ___
 
 <a href="#" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
-       height="220" width="460"/>
+       height="220" width="450"/>
 </a>
 
 
 <a href="#" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical" height="220" width="385"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical" height="220" width="380"/>
 </a>
 
 
@@ -69,7 +69,7 @@ ___
 <!-- ![Visitor](https://komarev.com/ghpvc/?username=thanhngan22&label=Profile%20views&color=0e75b6&style=flat) -->
 
 <!-- about ponyo -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7A680&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%91%8F+let+see+my+favorite+animated+characters+%F0%9F%98%89;%F0%9F%8C%9F+Ponyo+and+Sosuke+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%91%8F+let+see+my+favorite+animated+characters+%F0%9F%98%89;%F0%9F%8C%9F+Ponyo+and+Sosuke+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ___
 
