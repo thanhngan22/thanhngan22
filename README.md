@@ -29,7 +29,7 @@
  -->
  ---
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=750&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%85;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=590&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%85;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
  <span width="250">
  ![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif)
 </span>
@@ -49,7 +49,7 @@ ___ -->
 <a href="#" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </a>
-______________
+
 
 <a href="#" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical" height="195" />
@@ -71,20 +71,20 @@ ___
 ___
 
 <a href="#" >
-  <img align="center" src="https://thumbs.gfycat.com/CraftyDecimalAurochs-size_restricted.gif" width="500" height="300" />
+  <img align="center" src="https://thumbs.gfycat.com/CraftyDecimalAurochs-size_restricted.gif" width="420" height="300" />
 </a>
 
 <a href="#" >
-  <img align="center" src="https://aestheism.files.wordpress.com/2013/11/ponyo.gif" width="500" height="300" />
+  <img align="center" src="https://aestheism.files.wordpress.com/2013/11/ponyo.gif" width="420" height="300" />
 </a>
 
 ___
 <a href="#" >
-  <img align="center" src="https://giffiles.alphacoders.com/232/2325.gif" width="500" height="270" />
+  <img align="center" src="https://giffiles.alphacoders.com/232/2325.gif" width="420" height="270" />
 </a>
 
 <a href="#" >
-  <img align="center" src="https://i.pinimg.com/originals/f8/a5/fa/f8a5fa42fff23206014beeb079e9e58a.gif" width="500" height="270" />
+  <img align="center" src="https://i.pinimg.com/originals/f8/a5/fa/f8a5fa42fff23206014beeb079e9e58a.gif" width="420" height="270" />
 </a>
 
 ---
