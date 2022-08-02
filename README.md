@@ -45,14 +45,17 @@
 ___ -->
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=F74A22&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%F0%9F%92%81%E2%80%8D%E2%99%80%EF%B8%8F+this+is+my+activity+overview+in+github+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+___
 
 <a href="#" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+       height="220" width="460"/>
 </a>
 
 
 <a href="#" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical" height="195" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical" height="220" width="385"/>
 </a>
 
 
