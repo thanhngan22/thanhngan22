@@ -31,13 +31,8 @@
 
 -->
 
-<!-- Github stats and top langs
 
-![ThanhNgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=tokyonight)
-
--->
 
 <!--
 
@@ -52,4 +47,39 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&color=F86A7C&background=A579F9DF&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=+++++++++++++++%E2%9C%8C%EF%B8%8F+Hi+guys%2C;+I'm+Ponyo+%F0%9F%98%89;I'm+from+VietNam+%F0%9F%92%97;I+like+writing+code+when+feeling+bored+%F0%9F%98%85)](https://git.io/typing-svg)
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&color=F86A7C&background=A579F9DF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%91%8B;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1+Fun+fact%3A+I+like+writing+code+when+feeling+bored+%F0%9F%98%85%F0%9F%98%82)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&color=F86A7C&background=A579F9DF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%91%8B;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1+Fun+fact%3A+I+like+writing+code+when+feeling+bored+%F0%9F%98%85%F0%9F%98%82)](https://git.io/typing-svg) -->
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%89;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1+Fun+fact%3A+I+like+writing+code+when+feeling+bored+%F0%9F%98%85%F0%9F%98%82)](https://git.io/typing-svg)
+ -->
+ ---
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%85;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
+
+<!-- icon  %F0%9F%98%85 -->
+<!-- icon %F0%9F%98%89 -->
+
+<!-- Github stats and top langs -->
+<!-- ---
+![ThanhNgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical&height=195)
+___ -->
+
+---
+
+<a href="#" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+</a>
+______________
+
+<a href="#" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical" height="195" />
+</a>
+
+
+___
+
+<!-- [![Sumary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhngan22&theme=radical&show_icons=true) -->
+
+![Graph](https://activity-graph.herokuapp.com/graph?username=thanhngan22&theme=rogue&color=FBCFE8&line=C4B5FD&point=34D399&hide_border=false)
+
+---
