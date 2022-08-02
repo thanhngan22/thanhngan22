@@ -83,3 +83,13 @@ ___
 ![Graph](https://activity-graph.herokuapp.com/graph?username=thanhngan22&theme=rogue&color=FBCFE8&line=C4B5FD&point=34D399&hide_border=false)
 
 ---
+<!-- ![Visitor](https://komarev.com/ghpvc/?username=thanhngan22&label=Profile%20views&color=0e75b6&style=flat) -->
+
+
+
+
+
+
+<p align="center">
+	<img src="https://profile-counter.glitch.me/thanhngan22/count.svg" />
+</p>
