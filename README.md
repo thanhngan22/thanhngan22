@@ -91,8 +91,43 @@ ___
 </a>
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=840&height=80&lines=%F0%9F%91%80+About+me%F0%9F%A7%90)
+___
+<!-- code -->
+```typescript
+interface User {
+    id: number;
+    name: string;
+    age: number;
+    discord: string;
+    education: string;
+    quote: string;
+}
+
+const thanhngan22: User = {
+    id: 30025022,
+    name: "Bùi Thị Thanh Ngân",
+    age: 19,
+    discord: "Ponyo#5547",
+    education: "going to be a sophomore at HCMUS",
+    quote: "In three words I can sum up everything I’ve learned about life: it goes on. ― Robert Frost"
+}
+```
+___
+<img align="center" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif?fbclid=IwAR36JRFQPLXBzP1dG5kxFDOk6Bty_9N_5JIIxMprxoEXACjd_2CpOdMLM4U" width="840" />
+
+<!--
+<a href="#" >
+  <img align="center" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif?fbclid=IwAR3JQsNXooeADz9c2UkAsO2-AAK9tA9Hj37emn58UvE4lmrwLsS_8sAqt1E" width="420"  />
+</a>
+
+<a href="#" >
+  <img align="center" src="https://c.tenor.com/exuPwTTU-FwAAAAM/key-click-typing.gif?fbclid=IwAR3eCHn9MhSIgAfJ7SaBDljEGb1pWStxsIf3KfKCqwHpXigWr27-dOnNu9M" width="420"  />
+</a>
+-->
+
 <!-- footer -->
+---
 <p align="center">
 	<img src="https://profile-counter.glitch.me/thanhngan22/count.svg" />
 </p>
-
