@@ -45,7 +45,7 @@
 ___ -->
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=F74A22&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%F0%9F%92%81%E2%80%8D%E2%99%80%EF%B8%8F+this+is+my+activity+overview+in+github+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%F0%9F%92%81%E2%80%8D%E2%99%80%EF%B8%8F+this+is+my+activity+overview+in+github+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
 <!-- ___
 
 <a href="#" >
