@@ -105,7 +105,7 @@ interface User {
     age: number;
     discord: string;
     education: string;
-    quote: string;
+    quotation: string;
 }
 
 const thanhngan22: User = {
@@ -114,7 +114,7 @@ const thanhngan22: User = {
     age: 19,
     discord: "Ponyo#5547",
     education: "going to be a sophomore at HCMUS",
-    quote: "In three words I can sum up everything I’ve learned about life: it goes on. ― Robert Frost"
+    quotation: "In three words I can sum up everything I’ve learned about life: it goes on. ― Robert Frost"
 }
 ```
 ___
