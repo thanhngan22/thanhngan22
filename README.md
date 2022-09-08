@@ -109,11 +109,11 @@ interface User {
 }
 
 const thanhngan22: User = {
-    id: 30025022,
+    id: 220503,
     name: "Bùi Thị Thanh Ngân",
     age: 19,
     discord: "Ponyo#5547",
-    education: "going to be a sophomore at HCMUS",
+    education: "a sophomore at HCMUS",
     quotation: "In three words I can sum up everything I’ve learned about life: it goes on. ― Robert Frost"
 }
 ```
