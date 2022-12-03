@@ -53,6 +53,9 @@ ___
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=840&height=80&lines=%F0%9F%91%80+About+me%F0%9F%A7%90)
 ___
+
+</div>
+	
 <!-- code -->
 ```typescript
 interface User {
@@ -73,6 +76,9 @@ const thanhngan22: User = {
     quotation: "In three words I can sum up everything I’ve learned about life: it goes on. ― Robert Frost"
 }
 ```
+	
+<div align="center">
+
 ___
 <img align="center" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif?fbclid=IwAR36JRFQPLXBzP1dG5kxFDOk6Bty_9N_5JIIxMprxoEXACjd_2CpOdMLM4U" width="840" />
 
