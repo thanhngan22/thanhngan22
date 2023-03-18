@@ -2,21 +2,23 @@
  
  ---
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&repeat=false&width=590&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%96%90%EF%B8%8F;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95)
- 
-<span width="250">
 
-![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=590&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%85;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
+ <span width="250">
+  ![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif)
 </span>
 
+```
+	
+```
+	
+	
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=CC8BB8F2&background=none&center=true&vCenter=true&multiline=true&repeat=false&width=840&height=180&lines=%E2%9A%A1+By+the+way%2C;I'm+looking+for+teammates+to+practice+CTF+together.+;If+you're+interested%2C+feel+free+to+contact+me+!+%E2%9A%A1)
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=CC8BB8F2&background=none&center=true&vCenter=true&multiline=true&repeat=false&width=840&height=200&lines=%E2%9A%A1+By+the+way%2C;I'm+looking+for+teammates+to+practice+CTF+together.+;If+you're+interested%2C+feel+free+to+contact+me!+%F0%9F%91%8F)
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=60&lines=%F0%9F%91%A3+this+is+my+contribution+graph+%F0%9F%91%A3)](https://git.io/typing-svg)
-
----
 
  ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thanhngan22&theme=rogue&color=FBCFE8&line=C4B5FD&point=34D399&hide_border=false) 
 
