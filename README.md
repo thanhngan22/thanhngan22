@@ -1,39 +1,30 @@
  <div align="center">
  
  ---
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&repeat=false&width=590&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%96%90%EF%B8%8F;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95)
+ 
+<span width="250">
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=590&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%98%85;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
- <span width="250">
- ![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif)
+![Alt Text](https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif)
 </span>
 
 
-
-<!-- Github stats and top langs -->
-<!--
-___
-![ThanhNgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhngan22&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhngan22&layout=compact&theme=radical&height=195)
-___ 
--->
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=CC8BB8F2&background=none&center=true&vCenter=true&multiline=true&repeat=false&width=840&height=200&lines=%E2%9A%A1+By+the+way%2C;I'm+looking+for+teammates+to+practice+CTF+together.+;If+you're+interested%2C+feel+free+to+contact+me!+%F0%9F%91%8F)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%E2%9C%8D%EF%B8%8F+this+is+my+activity+overview+in+github+%F0%9F%91%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=60&lines=%F0%9F%91%A3+this+is+my+contribution+graph+%F0%9F%91%A3)](https://git.io/typing-svg)
+
+---
 
  ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thanhngan22&theme=rogue&color=FBCFE8&line=C4B5FD&point=34D399&hide_border=false) 
- 
-<!-- 
-[![graph](https://github-readme-activity-graph.cyclic.app/graph?username=thanhngan22&theme=react-dark&color=FBCFE8&point=F87171)](https://github.com/thanhngan22/github-readme-activity-graph)
 
-[![graph](https://github-readme-activity-graph.cyclic.app/graph?username=thanhngan22&theme=tokyo-night)](https://github.com/thanhngan22/github-readme-activity-graph)
--->
 
 ---
 
 <!-- about ponyo -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%91%8F+let+see+my+favorite+animated+characters+%F0%9F%98%89;%F0%9F%8C%9F+Ponyo+and+Sosuke+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&repeat=false&width=840&height=130&lines=%F0%9F%92%A4+let+see+my+favorite+animated+characters+%F0%9F%92%A6;%F0%9F%8C%9F+Ponyo+and+Sosuke+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ___
 
@@ -55,7 +46,7 @@ ___
 </a>
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&width=840&height=80&lines=%F0%9F%91%80+About+me%F0%9F%A7%90)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&repeat=false&width=840&height=80&lines=%F0%9F%91%80+About+me%F0%9F%A7%90)
 ___
 
 </div>
