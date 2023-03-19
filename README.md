@@ -11,9 +11,9 @@ ___
 </div>
 
 ```tsx
-💦💦💦         By the way,
-    		I'm looking for teamates to practice CTF together,
-    		If you're interested, feel free to contact me ! 
+💦💦💦         "The present, 
+		 I am diligently expanding my knowledge and 
+		 exploring more about information security with the dream of becoming a grey hat hacker.🙊"
 	
 ```
 <div align="center">
