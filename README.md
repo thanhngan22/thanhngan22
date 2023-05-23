@@ -23,10 +23,10 @@ ___
 <!--  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=CC8BB8F2&background=none&center=true&vCenter=true&multiline=true&repeat=false&width=840&height=180&lines=%E2%9A%A1+By+the+way%2C;I'm+looking+for+teammates+to+practice+CTF+together.+;If+you're+interested%2C+feel+free+to+contact+me+!+%E2%9A%A1) -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&width=800&height=70&lines=%F0%9F%91%A3+this+is+my+contribution+graph+%F0%9F%91%A3)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&width=800&height=70&lines=%F0%9F%91%A3+this+is+my+contribution+graph+%F0%9F%91%A3)](https://git.io/typing-svg)
 
  ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thanhngan22&theme=rogue&color=FBCFE8&line=C4B5FD&point=34D399&hide_border=false) 
-
+ -->
 ___
 <!-- about ponyo -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&&width=840&height=130&lines=%F0%9F%92%A4+let+see+my+favorite+animated+characters+%F0%9F%92%A6;%F0%9F%8C%9F+Ponyo+and+Sosuke+%F0%9F%8C%9F)](https://git.io/typing-svg)
