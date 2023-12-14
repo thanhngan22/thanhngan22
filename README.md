@@ -10,20 +10,11 @@ ___
 </div>
 
 ```js
-💦💦💦    "I am currently
-		 studying mobile application development on Android (Java), developing Windows applications (WPF C#),
-		 self-learning web development in both frontend (React - Typescript) and backend (Spring Boot).
-		 Additionally, I am exploring security-related topics, such as web exploitation and reverse engineering."
+💦💦💦    Squeal like a pig.
 ```
 <div align="center">
 
 ___
-
-<!--
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&width=800&height=70&lines=%F0%9F%91%A3+this+is+my+contribution+graph+%F0%9F%91%A3)](https://git.io/typing-svg)
-
- ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thanhngan22&theme=rogue&color=FBCFE8&line=C4B5FD&point=34D399&hide_border=false) 
--->
 
 <!-- about ponyo -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F7A680&center=true&vCenter=true&multiline=true&&width=840&height=70&lines=%F0%9F%8C%9F+Ponyo+and+Sosuke+%F0%9F%8C%9F)](https://git.io/typing-svg)
@@ -33,34 +24,47 @@ ___
 | <img src="https://giffiles.alphacoders.com/232/2325.gif" width="370" height="200" /> | <img src="https://i.pinimg.com/originals/f8/a5/fa/f8a5fa42fff23206014beeb079e9e58a.gif" width="370" height="200" /> |
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&&width=840&height=80&lines=%F0%9F%91%80+About+me+%F0%9F%91%80)
 
 
 </div>
-	
-<!-- code -->
-```typescript
-interface User {
-    id: number;
-    discord: string;
-    fullName: string;
-    education: string;
-    quotes: string[];
-}
 
-const thanhngan22: User = {
-    id: 	22,
-    discord:   "suke#5547",
-    fullName:  "Bùi Thị Thanh Ngân",
-    education: "a junior student majoring in Information Security at Ho Chi Minh University of Science - VNUHCM",
-    quotes:    [
-		"Knowledge was everywhere. Go and get it from wherever you can.",
 
-                "Never study just to be successful, study to be self-efficient.
-		 Don't chase success, chase excellence. Success will come following you."
-	       ]
-}
+##### "This heart is very fearful. Keep it stupid. No matter how big the problem is in life, tell it all is well. This gives the courage to face the problem." ― 3 Idiots
+
+
+```mermaid
+graph LR
+A[01000000] --> B[01110100]
+B --> C[01101000]
+C --> D[01100001]
+D --> E[01101110]
+E --> C
+C --> E
+E --> J[01100111]
+J --> K[01100001]
+D --> E
+E --> N[00110010]
+N --> N
+N --> A
 ```
+
+<!--
+this is a secret ::)
+A[01000000] -- B[01110100]
+B -- C[01101000]
+C -- D[01100001]
+D -- E[01101110]
+E -- F[01101000]
+F -- G[01101110]
+G -- J[01100111]
+J -- K[01100001]
+K -- M[01101110]
+M -- N[00110010]
+N -- R[00110010]
+R -- Q[01000000]
+-->
+
+___
 	
 <div align="center">
 <img align="center" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif?fbclid=IwAR36JRFQPLXBzP1dG5kxFDOk6Bty_9N_5JIIxMprxoEXACjd_2CpOdMLM4U" width="840" />
